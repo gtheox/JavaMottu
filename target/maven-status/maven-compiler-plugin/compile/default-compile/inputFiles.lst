@@ -1,0 +1,12 @@
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\ChallengeApplication.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\controller\MotoController.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\controller\PatioController.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\dto\MotoDTO.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\dto\PatioDTO.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\exception\GlobalExceptionHandler.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\model\Moto.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\model\Patio.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\repository\MotoRepository.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\repository\PatioRepository.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\service\MotoService.java
+C:\Users\edubm\Desktop\JAVA ADVANCED\Challenge\src\main\java\com\mottu\challenge\service\PatioService.java
